@@ -1,4 +1,5 @@
 Hello, Git!
 Branch 1 test
 
-test push eclipse
+1. test push eclipse
+2. test nitinbranch merge to MASTER 3
